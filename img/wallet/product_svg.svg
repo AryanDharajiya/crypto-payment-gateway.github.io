@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147.685" height="109.661" viewBox="0 0 147.685 109.661">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.829" y1="-0.17" x2="0.441" y2="0.619" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1d9f0"/>
+      <stop offset="1" stop-color="#f7faff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.93" y1="0.5" x2="0.093" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0c82a"/>
+      <stop offset="1" stop-color="#c98749"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.772" y1="2.24" x2="0.545" y2="0.439" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="1.039" x2="0.5" y2="-0.648" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1.477" y1="0.5" x2="0.501" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_1440" data-name="Group 1440" transform="translate(-444 -823.077)">
+    <rect id="Rectangle_748" data-name="Rectangle 748" width="115.433" height="94.27" rx="21.231" transform="translate(444 823.077)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_196" data-name="Ellipse 196" cx="40.45" cy="40.45" r="40.45" transform="translate(510.785 829.929)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_749" data-name="Rectangle 749" width="115.433" height="94.27" rx="21.231" transform="translate(444 838.468)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_750" data-name="Rectangle 750" width="65.412" height="36.554" rx="9.952" transform="translate(503.64 867.326)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_197" data-name="Ellipse 197" cx="7.696" cy="7.696" r="7.696" transform="translate(517.107 877.908)" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>

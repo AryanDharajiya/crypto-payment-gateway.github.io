@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11.876" height="11.875" viewBox="0 0 11.876 11.875">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.164" x2="0.5" y2="1.216" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fda60d"/>
+      <stop offset="0.046" stop-color="#fda60d" stop-opacity="0.941"/>
+      <stop offset="0.319" stop-color="#fda60d" stop-opacity="0.612"/>
+      <stop offset="0.56" stop-color="#fda60d" stop-opacity="0.349"/>
+      <stop offset="0.76" stop-color="#fda60d" stop-opacity="0.161"/>
+      <stop offset="0.913" stop-color="#fda60d" stop-opacity="0.043"/>
+      <stop offset="1" stop-color="#fda60d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3febd4"/>
+      <stop offset="0.052" stop-color="#3febd4" stop-opacity="0.953"/>
+      <stop offset="0.385" stop-color="#3febd4" stop-opacity="0.675"/>
+      <stop offset="0.666" stop-color="#3febd4" stop-opacity="0.471"/>
+      <stop offset="0.879" stop-color="#3febd4" stop-opacity="0.345"/>
+      <stop offset="1" stop-color="#3febd4" stop-opacity="0.302"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1492" data-name="Group 1492" transform="translate(-1649.36 -427.15)">
+    <path id="Path_1030" data-name="Path 1030" d="M1676.608,451.954a2.443,2.443,0,1,1-2.444-2.444A2.434,2.434,0,0,1,1676.608,451.954Z" transform="translate(-18.866 -18.866)" fill="url(#linear-gradient)"/>
+    <path id="Path_1031" data-name="Path 1031" d="M1655.3,427.15a5.938,5.938,0,1,0,5.938,5.938A5.919,5.919,0,0,0,1655.3,427.15Zm2.972,9.071a4.318,4.318,0,1,1,1.347-3.133A4.294,4.294,0,0,1,1658.27,436.221Z" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

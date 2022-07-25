@@ -1,0 +1,286 @@
+.page-headline {
+    min-height: 180px;
+    background: url("https://coingate.com/_next/static/media/page-headline.2016a449.svg") 0 no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.about_hero__sec_content h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+}
+
+.h1_span {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.about_hero__sec_content p {
+    font-size: 18px;
+    color: #a1a1a1;
+    margin-bottom: 55px;
+    margin-top: 15px;
+}
+
+.about_hero__sec_content a {
+    color: white;
+    background: #0d6efd;
+    padding: 15px 30px 15px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.faq_section {
+    background: #e9f6ff;
+    padding-top: 90px;
+    padding-bottom: 85px;
+    position: relative;
+}
+
+.que_sec {
+    text-align: center;
+}
+
+h2 {
+    color: #11193b;
+    font-weight: 700;
+    font-size: 2.6em;
+}
+
+.que_content p {
+    font-size: 15px;
+    color: #7f88a0;
+    margin-top: 32px;
+    margin-bottom: 60px;
+}
+
+.faq_btn {
+    text-decoration: none;
+    margin-top: 40px;
+    border-radius: 4px 50px 50px 50px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    background: #2b00bc;
+    text-align: center;
+    padding: 15px 65px 15px 65px;
+}
+
+.offer_sec_card {
+    box-sizing: border-box;
+    padding: 32px 46px 32px 40px;
+    box-shadow: 0 2px 20px rgb(165 165 165 / 30%);
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.ml_230 {
+    margin-left: 230px;
+}
+
+.offer_sec_card h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.offer_sec_card p {
+    color: #a3a3a3;
+    font-size: 16px;
+}
+
+.about_sec_content li {
+    list-style: none;
+}
+
+.about_sec_content li p {
+    font-size: 15px;
+    color: #7f88a0;
+}
+
+.back_bg {
+    background: linear-gradient(#eef6fd, #fff);
+    padding-top: 100px;
+    padding-bottom: 64px;
+}
+
+
+.slider {
+    overflow: hidden;
+}
+
+.slider ul {
+    display: flex;
+    padding: 0;
+    animation: cambio 80s infinite linear;
+}
+
+.slider img {
+    height: 210px;
+    margin: 0;
+}
+
+@keyframes cambio {
+    from {
+        margin-left: 0%
+    }
+
+    to {
+        margin-left: -100%
+    }
+}
+
+.business_industries_title {
+    margin-top: 120px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.business_industries_title h2 {
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 50px;
+}
+
+.business_industries_title p {
+    color: #293366;
+    font-size: 21px;
+}
+
+.secpad {
+    padding: 80px 0;
+}
+
+.lbox{
+	border: 1px solid #BED2F2;
+	background: #F9FAFB;
+}
+.lbbg1{
+	background-image: url("http://localhost/crp/img/gateway/fast-secure.svg");
+	background-repeat: no-repeat;
+}
+.lbbg2{
+	background-image: url("http://localhost/crp/img/gateway/low-pricing.svg");
+	background-repeat: no-repeat;
+}
+.lbbg3{
+	background-image: url("http://localhost/crp/img/gateway/major-currency.svg");
+	background-repeat: no-repeat;
+}
+.lbox1{
+	height: 210px;
+}
+.lbox2{
+	height: 140px;
+}
+.lbox3{
+	height: 382px;
+}
+.lbox span{
+	font: normal normal 600 18px/23px Gilroy ☞;
+	color: #2B3451;
+	opacity: 0.6;
+}
+.lbox h3{
+	font: normal normal bold 28px/35px Gilroy ☞;
+	color: #2B3451;
+}
+.lbox1{
+	padding-top: 125px;
+	padding-left: 40px;
+}
+.lbox2{
+	text-align: center;
+	padding-left: 50px;    
+    padding-top: 50px;
+}
+.lbox3{
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.lbox2mar{
+	margin-top: 30px;
+}
+
+.nh{
+	background: #0055FF;
+	box-shadow: 0px 20px 30px #F1F3FF;
+	border: 2px solid #E5EEFF;
+	padding: 46px 50px;
+}
+.op8{
+	opacity: 0.8;
+}
+input::placeholder{
+    color: #FFFFFF;
+	opacity: 0.25;
+}
+
+.nh input{
+	font-size: 14px;
+	color: #fff!important;
+	background: #1563FF;
+	border: 1px solid #FFFFFF;
+	padding: 10px 20px;
+	width: 75%;
+	outline: 0;
+}
+.nh a{
+	font-size: 14px;
+	color: #0055FF;
+	background: #fff;
+	border: 1px solid #FFFFFF;
+	padding: 10px 20px;
+	width: 75%;
+	display: block;
+	margin-top: 20px;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: none;
+}
+.nhmar{
+	margin: 25px 0;
+}
+.text-popti {
+    color: #26FFF0!important;
+}
+.cspan {
+    font-size: 22px;
+    font-weight: 800px;
+}
+
+
+
+@media (max-width: 574px){
+    .secpad {
+        padding: 4  0px 0;
+    }
+    .ml_230 {
+        margin-left: 0;
+    }
+    .slider img {
+        height: 180px;
+        margin: 0 -20px 0 -10px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

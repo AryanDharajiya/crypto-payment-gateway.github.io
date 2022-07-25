@@ -1,0 +1,92 @@
+<div class="container fts-set">	
+	<div class="col-lg-8 offset-lg-2">		
+		<div class="fts">	
+			<div class="row">
+				<div class="col-lg-8">
+					<div class="fts-cont">
+						<h2>Lorem ipsum doler sumt</h2>
+						<p>Create API & Integrate with the product. <br class="d-none d-lg-block">Minimal coding required</p>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="fts-btn">
+						<a href="#">Sign Up</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>
+
+<footer>
+	<div class="ft-shape">
+		<img src="img/footer/ft-shape.svg" class="img-fluid">
+	</div>
+	<div class="ft-bg">
+		<div class="container fttpad">
+			<div class="row">
+				<div class="col-lg-3 offset-lg-1 col-md-9">
+					<div class="ft-cont">
+						<h2 class="ch2 text-light">Logo</h2>
+						<p>CryptoX is a safe and reliable solution to accept, save, convert and make cryptocurrency payments.</p>
+						<div class="ft-tf d-none d-lg-block">
+							<span>Toll Free No : <strong>1800 256 658 963</strong></span>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-7">
+					<div class="row">
+						<div class="col-lg-3 col-6 col-md-3">
+							<div class="ft-link">
+								<h3>Products</h3>
+								<a href="gateway" class="ft-link-a">Business</a>
+								<a href="wallet" class="ft-link-a">Personal</a>
+								<a href="invoice" class="ft-link-a">Invoice</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-6 col-md-3">
+							<div class="ft-link">
+								<h3>Resources</h3>
+								<a href="integration" class="ft-link-a">Integration</a>
+								<a href="#" class="ft-link-a">Blog</a>
+								<a href="#" class="ft-link-a">FAQs</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-6 col-md-3">
+							<div class="ft-link">
+								<h3>Company</h3>
+								<a href="about" class="ft-link-a">About Us</a>
+								<a href="#" class="ft-link-a">Contact Us</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-6 col-md-3">
+							<div class="ft-link">
+								<h3>Other Links</h3>
+								<a href="#" class="ft-link-a">Privacy Policy</a>
+								<a href="#" class="ft-link-a">Terms & Condition</a>
+							</div>
+						</div>
+						<div class="col-lg-6 offset-lg-6 col-md-6">
+							<div class="ft-social ft-social-tb">	
+								<h3>Follow us on</h3>
+								<a href="#"> <i class="bi bi-facebook"></i></a>
+								<a href="#"> <i class="bi bi-twitter"></i></a>
+								<a href="#"> <i class="bi bi-linkedin"></i></a>
+								<a href="#"> <i class="bi bi-youtube"></i></a>
+								<a href="#"> <i class="bi bi-instagram"></i></a>
+							</div>
+						</div>
+						<div class="d-lg-none col-md-6">
+							<div class="ft-tf">
+								<span>Toll Free No : <strong>1800 256 658 963</strong></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ft-copyright">
+		<p>Copyright © 2022 CryptoX Ltd. All rights reserved.</p>
+	</div>
+</footer>

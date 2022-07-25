@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <?php include 'include/meta.php'; ?>
+
+    <title>CryptoX Payment Gateway | Crypto Payments Solution</title>
+    <meta name="description" content="CryptoX is a Secure and Trusted Crypto gateway to accept multiple crypto currencies for your businesses, the best infrastructure to provide a seamless crypto payments solution to your customers."/>
+    <meta name="keywords" content="Crypto Gateway, Secure and Safe crypto gateway, Accept multiple crypto currencies, CryptoX payment gateway, Crypto payments solution"/>
+
+    <?php include 'include/css.php';?>
+
+    <link rel="stylesheet" href="css/home.css">
+</head>
+
+<body>
+    <?php include 'include/header.php'; ?>
+
+    <section class="herotpad secbpad">
+        <div class="container">
+            <div class="hero">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <span>FAST <b>|</b> GLOBAL <b>|</b> IRREVERSIBLE</span>
+                        <h1 class="ch1">Trusted and secure Crypto Gateway</h1>
+                        <p class="cp">Get started with our self-managed product within <br class="d-none d-lg-block">minutes & Accept crypto from your customers</p>
+                        <div class="hero-btn">
+                            <a href="" class="get-started">Get Started</a>
+                            <div class="wrapper">
+                              <div class="video-main">
+                                <div class="promo-video">
+                                  <div class="waves-block">
+                                    <div class="waves wave-1"></div>
+                                    <div class="waves wave-2"></div>
+                                    <div class="waves wave-3"></div>
+                                  </div>
+                                </div>
+                                <a href="" class="video video-popup mfp-iframe" data-lity><i class="bi bi-play-fill"></i> <span class="wvs">Watch Video</span></a>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-none d-lg-block">
+                        <div class="hero-img">
+                            <img src="img/home/hero.svg" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="secpad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="row">
+                        <div class="col-lg-5 offset-lg-1 col-md-6">
+                            <div class="ser serz1">
+                                <div class="ser-img">
+                                    <img src="img/home/invoice.svg">
+                                </div>
+                                <div class="ser-cont">
+                                    <h3>Invoice</h3>
+                                    <p>Calculate and accept the amount through invoices for the selected crypto</p>
+                                    <div class="ser-link">
+                                        <a href="">Check now <i class="bi bi-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="serbg1 serz3">
+                                <img src="img/home/mask1.svg">
+                            </div>
+                            <div class="ser serm1 serz2">
+                                <div class="ser-img">
+                                    <img src="img/home/checkout.svg">
+                                </div>
+                                <div class="ser-cont">
+                                    <h3>Checkout</h3>
+                                    <p>Collect crypto payments with a smooth checkout from your customers</p>
+                                    <div class="ser-link">
+                                        <a href="">Check now <i class="bi bi-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-5 offset-lg-1 col-md-6">
+                            <div class="serbg2 serz3">
+                                <img src="img/home/mask2.svg">
+                            </div>
+                            <div class="ser serm2 serz2">
+                                <div class="ser-img">
+                                    <img src="img/home/reports.svg">
+                                </div>
+                                <div class="ser-cont">
+                                    <h3>Reporting</h3>
+                                    <p>Reconcile and payments tracking via smart <br class="d-none d-lg-block">reports</p>                                   
+                                    <div class="ser-link">
+                                        <a href="">Check now <i class="bi bi-arrow-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 offset-lg-1 col-md-12">
+                    <div class="ct ctpad ct-asset">
+                        <span class="cspan">Why us?</span>
+                        <h2 class="ch2">Accept Digital Assets <br class="d-none d-lg-block">with CryptoX</h2>
+                        <p class="cp">
+                            Crypto is the future of payments! <br class="d-none d-lg-block">
+                            We want to provide the best infrastructure  <br class="d-none d-lg-block">
+                            to provide a seamless crypto payments solution <br class="d-none d-lg-block">
+                            for your customers and be a part of tomorrow…
+                        </p>
+                        <div class="ct-list ct-list-mar">                    
+                            <li><i class="bi bi-check li_i"></i> A secure and reliable solution</li>
+                            <li><i class="bi bi-check li_i"></i> Authentic tie-ups and partners</li>
+                            <li><i class="bi bi-check li_i"></i> Multiple cryptocurrencies supported</li>
+                            <li><i class="bi bi-check li_i"></i> Dedicated account manager</li>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sectpad">
+        <div class="blue-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="ct pro-pad text-center">
+                        <span class="cspan clr1 fw-normal">Products</span>
+                        <h2 class="ch2 text-light">One stop Solution for Business</h2>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="ms">
+                            <div class="ms-main">
+                                <img src="img/home/person.svg">
+                                <h3 class="ch3 text-light">Merchant Solution</h3>
+                            </div>
+                            <div class="ms-box msb1">
+                                <img src="img/home/currency.svg">
+                                <p class="text-light">Crypto currency <br class="d-none d-lg-block">Payment gateway</p>
+                                <div class="ms-boxi msb-left">
+                                    <i class="bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 d-none d-lg-block">
+                        <div class="ms-sol-img">
+                            <img src="img/home/solution.png">
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="ms">
+                            <div class="ms-main">
+                                <img src="img/home/bag.svg">
+                                <h3 class="ch3 text-light">Enterprise Solution</h3>
+                            </div>
+                            <div class="ms-box msb2">
+                                <img src="img/home/wallet.svg">
+                                <p class="text-light">Crypto <br class="d-none d-lg-block">Wallet</p>
+                                <div class="ms-boxi msb-right">
+                                    <i class="bi bi-chevron-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-light1 wu-pad">
+        <div class="asb1">
+            <div class="asb2">
+                <div class="asb3">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="ct ctpad wu">
+                                    <span class="cspan">With us</span>
+                                    <h2 class="ch2">Embrace the Tomorrow’s <br class="d-none d-lg-block">Payments Solution Today</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wu-line"></div>
+                    <div class="container">                        
+                        <div class="wu-list">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-6">
+                                    <h3>Low fees</h3>                                    
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <h3>Complete privacy</h3>                                    
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <h3>24/7 Best Support</h3>                                    
+                                </div>
+                                <div class="col-lg-3 col-md-6">
+                                    <h3>Global unlimited payouts</h3>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="wu-mar">     
+        <div class="container">
+            <div class="wu-box wu-box-pad">
+                <div class="ct offset-lg-1 plr1">
+                    <span class="cspan">Trusted</span>
+                    <h2 class="ch2">10000+ Businesses on CryptoX <br class="d-none d-lg-block">Get onboard yours now!</h2>
+                </div>
+                <div class="row m01">
+                    <div class="col-lg-3 offset-lg-1 col-md-6">
+                        <div class="wu-box-sm">
+                            <h3>Complete Security</h3>
+                            <p>Best security compliances and fulfilled requirements with PCI DSS, Tokenization, 2FA, SSL, PSD2, and SCA</p>
+                            <div class="wu-box-sm-link">
+                                <a class="" href="#"><span>Check now</span><i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="wu-box-sm">
+                            <h3>Complete Platform</h3>
+                            <p>Collect and make crypto payments globally.Avail instant cryptocurrency conversion to fiat at the best rates</p>
+                            <div class="wu-box-sm-link">
+                                <a class="" href="#"><span>Check now</span><i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="wu-box-sm">
+                            <h3>Complete payments</h3>
+                            <p>Accept the stable payments with payment buttons & hosted <br class="d-none d-lg-block">checkouts.</p>
+                            <div class="wu-box-sm-link">
+                                <a class="" href="#"><span>Check now</span><i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </section>
+
+    <section class="secpad spos">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ct">
+                        <span class="cspan">Integration</span>
+                        <h2 class="ch2">The Best Crypto Solution in <br class="d-none d-lg-block">Technical Terms too</h2>
+                        <p class="cp">
+                            Get started with our ready plugins<br class="d-none d-lg-block">
+                            to accept and convert 100+ cryptocurrencies.  <br class="d-none d-lg-block">
+                            We have everything prepared for you!
+                        </p>
+                        <div class="int-start">
+                            <a href="">Start integration <i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="int-img">
+                        <img src="img/home/integration.svg" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="secpad spos bg-light2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="ct btpad">
+                        <h2 class="ch2">Crypto is in the news Daily</h2>
+                        <p class="cp">
+                           Get the latest information and news <br class="d-none d-lg-block">
+                          about crypto through our newsletter, blogs, and offers
+                        </p>
+                    </div>
+                    <div class="sub">
+                        <input type="text" name="email" placeholder="Enter email">
+                        <div class="sub-btn-main">
+                            <a href="#" class="sub-btn">Subsribe</a>
+                            <a href="#" class="goto">Go to blogs >></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">                    
+                    <div class="blog">
+                        <div class="blog-main">
+                            <div class="blog-img">
+                                <img src="img/home/blog.jpg">
+                            </div>
+                            <div class="blog-cont">
+                                <h4>Powering up India's EV charge</h4>
+                                <p>There’s a right way to do a performance brand, and a wrong one. The wrong one involves a lot of badges and stickers, but no real changes to the car.</p>
+                            </div>
+                        </div>
+                        <div class="blog-read-more">
+                            <a href="#">Read more</a>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <div class="blog-main">
+                            <div class="blog-img">
+                                <img src="img/home/blog.jpg">
+                            </div>
+                            <div class="blog-cont">
+                                <h4>Powering up India's EV charge</h4>
+                                <p>There’s a right way to do a performance brand, and a wrong one. The wrong one involves a lot of badges and stickers, but no real changes to the car.</p>
+                            </div>
+                        </div>
+                        <div class="blog-read-more">
+                            <a href="#">Read more</a>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <div class="blog-main">
+                            <div class="blog-img">
+                                <img src="img/home/blog.jpg">
+                            </div>
+                            <div class="blog-cont">
+                                <h4>Powering up India's EV charge</h4>
+                                <p>There’s a right way to do a performance brand, and a wrong one. The wrong one involves a lot of badges and stickers, but no real changes to the car.</p>
+                            </div>
+                        </div>
+                        <div class="blog-read-more">
+                            <a href="#">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <?php include 'include/footer.php'; ?>
+
+    <?php include 'include/js.php'; ?>
+
+</body>
+
+</html>

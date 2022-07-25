@@ -1,0 +1,151 @@
+.hero span {
+    font: normal normal bold 22px/28px Gilroy ☞;
+    color: #838896;
+}
+.hero-btn{
+    padding-top: 50px;
+}
+.ct h2 {
+    padding-top: 10px;
+}
+.sb{
+    border-top: 1px solid #E5EEFF;
+    padding-bottom: 30px;
+}
+.topic strong{
+    font-size: 14px;
+    color: #2B3451;
+    opacity: 0.8;
+    padding-top: 30px;
+}
+.topic strong::before {
+    content: "\f26e";
+    font-family: bootstrap-icons !important;
+    background: #0055FF;
+    color: #fff;
+    border-radius: 50%;
+    position: relative;
+    left: -10px;
+    top: 2px;
+}
+.step{
+    display: inline-flex;
+}
+.stepnum h3{
+    font-size: 74px;
+    color: #fff;
+    opacity: 0.2;
+    margin-top: 30px;
+}
+.stepcont{
+    margin-left: 15px;
+}
+.stepcont h4{
+    font: normal normal bold 18px/23px Gilroy ☞;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+.stepcont p{
+    font: normal normal normal 14px/16px Gilroy ☞;
+    color: #FFFFFF;
+    margin-top: 5px;
+    opacity: 0.8;
+}
+.stepvline:before{
+    content: " ";
+    border-left: 1px solid #fff;
+    opacity: 0.2;
+    position: relative;
+    left: -50px;
+}
+.fe-box{
+    padding: 20px;
+    border: 1px solid #fff;
+}
+.fe-box:hover{
+    background: #fff;
+    box-shadow: 0px 20px 30px #F1F3FF66;
+    border: 1px solid #BED2F2;
+}
+.fe-box .fe-box-img{
+    display: inline-flex;
+}
+.fe-box .fe-box-img h3{
+    font: normal normal bold 18px/23px Gilroy ☞;
+    color: #2B3451;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.fe-box p{
+    font: normal normal normal 14px/16px Gilroy ☞;
+    color: #2B3451;
+    opacity: 0.8;
+    margin-top: 20px;
+}
+.app{
+    width: 180px;
+    height: 180px;
+    background: #fff;
+    box-shadow: 0px 20px 30px #F1F3FF;
+    border: 2px solid #0055FF;
+    text-align: center;
+    padding: 30px;
+}
+.app img{
+    padding-bottom: 20px;
+    height: 90px;
+}
+.app a{
+    display: none;
+    background: #0055FF;
+    border-radius: 20px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 5px;
+    padding: 2px 0;
+}
+.app:hover a{
+    background: #0055FF;
+    color: #fff;
+    display: block;
+}
+.app-ml{
+    margin-left: 50px;
+}
+.text-white1{
+    color: #FAFAFA;
+    opacity: 0.8;
+}
+.wall-img{
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+/*  Media Query  */    
+@media (max-width:574px){
+    .app {
+        width: 160px;
+        height: 140px;
+    }    
+    .cust_ct{
+        margin-top: 20px;
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px){
+    .m1{
+        margin: 0 30px;
+    }
+    .ttc{
+        text-align: center;
+    }
+    .app-img{
+        padding-bottom: 50px;
+    }
+    .app , .pro{
+        margin-top: 30px;
+    }
+}

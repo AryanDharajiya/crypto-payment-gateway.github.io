@@ -1,0 +1,18 @@
+<svg id="Group_513" data-name="Group 513" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.578" height="59.501" viewBox="0 0 75.578 59.501">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.203" y1="0.5" x2="-0.034" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ebebeb"/>
+      <stop offset="0.279" stop-color="#f1f1f1" stop-opacity="0.659"/>
+      <stop offset="0.534" stop-color="#f7f7f7" stop-opacity="0.376"/>
+      <stop offset="0.746" stop-color="#fbfbfb" stop-opacity="0.173"/>
+      <stop offset="0.908" stop-color="#fefefe" stop-opacity="0.047"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.077" y1="0.5" x2="1.573" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect id="Rectangle_295" data-name="Rectangle 295" width="75.578" height="59.501" fill="none"/>
+  <g id="Group_498" data-name="Group 498" transform="translate(11.554 11.714)">
+    <circle id="Ellipse_117" data-name="Ellipse 117" cx="18.037" cy="18.037" r="18.037" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_118" data-name="Ellipse 118" cx="18.037" cy="18.037" r="18.037" transform="translate(16.397)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
